@@ -7,3 +7,18 @@ Rahgmar is valuable because of its natural gold deposits. The Corruptor also hat
 In retribution, The Corruptor wants the magic crystal found at the heart of the castle (and all the gold)... making The Corruptor super rich and super powerful.
 
 The magic crystal allows one to see the future... however, anbyone who has attempted to use the magic crystal has gone insane shortly after using it.
+
+--
+
+Tower Progression:
+Everything is unlocked after level 2, except
+
+-- 
+
+Level Progression:
+6 levels
+levels 1-3 are defending our kingdom
+levels 4-6 are attacking The Corruptor
+
+
+
