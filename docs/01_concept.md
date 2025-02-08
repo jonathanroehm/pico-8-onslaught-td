@@ -1,14 +1,10 @@
-Story:
-Overall: there's an alien invasion happening in the present time zone.
-The future invents a time machine to go back in time to stop an alien invasion. However, the past also invents a time machine and goes to the future.
+The evil wizard, "The Corruptor", has attacked the city Rahgmar.
 
-Time Machine Creation:
-  Past: "one of the people in magic school did a spell wrong and went to the future... and then a lot of people followed him into the future"
-  Present: No time machine - there's an alien invasion happening.
-  Future: the future wants to stop the alien invasion because the future is really bad - so they go back in time to fix the alien invasion.
+You, player, are a new general - and you're in charge of saving the entire city. This is your first job, and it was handed to you because all the rest of the military is off on important missions and you're the only one left.
 
+Rahgmar is valuable because of its natural gold deposits. The Corruptor also hates the King and Queen for their relentless destruction of his corrupted domain.
 
-Game Design:
-* Level Design: Pre-Designed
-* Tower Placement: anywhere "viable" except path 
-* Mobs: Move from One side to the other, do not return (they escape)
+In retribution, The Corruptor wants the magic crystal found at the heart of the castle. 
+
+The magic crystal allows one to see the future... however, anbyone who has attempted to use the magic crystal has gone insane shortly after using it.
+
