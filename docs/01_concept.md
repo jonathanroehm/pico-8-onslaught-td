@@ -21,4 +21,7 @@ levels 1-3 are defending our kingdom
 levels 4-6 are attacking The Corruptor
 
 
+---
 
+Mobs:
+* Zombie: Zombie is a raised dead zombie by the curropter. the curropter is raising the dead because they're easy to horde and send towards the kingdom -- weak but effective.
