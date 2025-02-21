@@ -16,10 +16,10 @@ Everything is unlocked after level 2, except
 -- 
 
 Level Progression:
-5 levels
-levels 1-2 are defending our kingdom
-levels 3-4 are attacking The Corruptor
-Level 5 - final corruptor castle
+* 5 levels
+* levels 1-2 are defending our kingdom
+* levels 3-4 are attacking The Corruptor
+* Level 5 - final corruptor castle
 
 ---
 
