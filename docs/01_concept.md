@@ -16,12 +16,20 @@ Everything is unlocked after level 2, except
 -- 
 
 Level Progression:
-6 levels
-levels 1-3 are defending our kingdom
-levels 4-6 are attacking The Corruptor
-
+5 levels
+levels 1-2 are defending our kingdom
+levels 3-4 are attacking The Corruptor
+Level 5 - final corruptor castle
 
 ---
 
 Mobs:
 * Zombie: Zombie is a raised dead zombie by the curropter. the curropter is raising the dead because they're easy to horde and send towards the kingdom -- weak but effective.
+* Ghost - a failed summoning at a zombie, resulted in the curropter creating ghosts. He was happy with it and kept it.
+* Dark Knight - Re-aniamted suit of armor of the soldiers he's destroyed in the past. No spirit / monster inside the armor, it's just magically animated.
+* Fire Demon - Strongly dislike the king and queen for attempting to destroy their dimension multiple times. So they are allies of the corruptor.
+* Slime - loyal to the corruptor because he is one of them (but the player doesn't know this yet)
+
+---
+
+
